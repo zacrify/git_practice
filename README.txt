@@ -1,2 +1,3 @@
-Hello Git and GitHub
-this is second commit 
+this is second commit !!
+yes that's me ##
+why me
