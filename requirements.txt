@@ -1,0 +1,4 @@
+openai-whisper
+openai
+deepl
+python-dotenv

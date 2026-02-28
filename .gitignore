@@ -1,0 +1,17 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Input/output data
+videos/*.mp4
+output/*.srt
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
